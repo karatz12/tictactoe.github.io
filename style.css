@@ -20,7 +20,7 @@ section {
 .game--title {
     font-size: 100px;
     color: #d7a62f;
-    margin: 10px auto;
+    margin: 50px auto;
 }
 
 .game--container {
@@ -42,7 +42,7 @@ section {
     background-color: #f7e4ac;
     width: 210px;
     height: 50px;
-    font-size: 25px;
+    font-size: 45px;
     color: #5586e2;
     box-shadow: 2px 2px 2px 2px #d86c23;
     border: 2px solid #d86c23;
